@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>profile-png-icon-2.png</file>
+        <file>style.css</file>
+    </qresource>
+</RCC>

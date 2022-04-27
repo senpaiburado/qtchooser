@@ -1,0 +1,39 @@
+QPushButton {
+    border: none;
+    font-size: 14pt;
+}
+
+QPushButton[cssClass="navMenuBtn"] {
+    color: grey;
+}
+
+QPushButton[cssClass="navMenuBtn"]:hover {
+    color: black;
+}
+
+QPushButton[cssClass="navMenuBtn"]:checked {
+    color: black;
+}
+
+#exitButton {
+    height: 40px;
+}
+
+#exitButton:hover {
+    border: 2px solid black;
+}
+
+#title {
+    color: black;
+    font-size: 18pt;
+}
+
+.Card {
+    border: 1px solid black;
+}
+
+QWidget[cssClass="card"] {
+    border: 1px solid black;
+}
+
+
